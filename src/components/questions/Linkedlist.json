@@ -1,0 +1,137 @@
+[
+    {
+        "question": "A linear collection of data elements where the linear node is given by means of pointer is called?",
+        "optionA": "Linked list",
+        "optionB": "Node list",
+        "optionC": "Primitive list",
+        "optionD": "Unordered list",
+        "answer": "Linked list"
+    },
+
+    {
+        "question": "In linked list each node contains a minimum of two fields. One field is data field to store the data second field is?",
+        "optionA": "Pointer to character",
+        "optionB": "Pointer to integer",
+        "optionC": "Pointer to node",
+        "optionD": "Node",
+        "answer": "Pointer to node"
+    },
+
+    {
+        "question": "What would be the asymptotic time complexity to insert an element at the front of the linked list (head is known)?",
+        "optionA": "O(1)",
+        "optionB": "O(n)",
+        "optionC": "O(n2)",
+        "optionD": "O(n3)",
+        "answer": "O(1)"
+    },
+
+    {
+        "question": "What would be the asymptotic time complexity to add a node at the end of singly linked list, if the pointer is initially pointing to the head of the list?",
+        "optionA": "O(1)",
+        "optionB": "O(n)",
+        "optionC": "θ(n)",
+        "optionD": "θ(1)",
+        "answer": "θ(n)"
+    },
+
+    {
+        "question": "What would be the asymptotic time complexity to find an element in the linked list?",
+        "optionA": "O(1)",
+        "optionB": "O(n)",
+        "optionC": "O(n2)",
+        "optionD": "O(n4)",
+        "answer": "O(n)"
+    },
+
+    {
+        "question": "What would be the asymptotic time complexity to insert an element at the second position in the linked list?",
+        "optionA": "O(1)",
+        "optionB": "O(n)",
+        "optionC": "O(n2)",
+        "optionD": "O(n3)",
+        "answer": "O(1)"
+    },
+
+    {
+        "question": "The concatenation of two lists can be performed in O(1) time. Which of the following variation of the linked list can be used?",
+        "optionA": "Singly linked list",
+        "optionB": "Doubly linked list",
+        "optionC": "Circular doubly linked list",
+        "optionD": "Array implementation of list",
+        "answer": "Circular doubly linked list"
+    },
+
+    {
+        "question": "What kind of linked list is best to answer questions like “What is the item at position n?”",
+        "optionA": "Singly linked list",
+        "optionB": "Doubly linked list",
+        "optionC": "Circular linked list",
+        "optionD": "Array implementation of linked list",
+        "answer": "Array implementation of linked list"
+    },
+
+    {
+        "question": "Linked lists are not suitable for the implementation of",
+        "optionA": "Insertion sort",
+        "optionB": "Radix sort",
+        "optionC": "Polynomial manipulation",
+        "optionD": "Binary search",
+        "answer": "Binary search"
+    },
+
+    {
+        "question": "Linked list is considered as an example of ___________ type of memory allocation.",
+        "optionA": "Dynamic",
+        "optionB": "Static",
+        "optionC": "Compile time",
+        "optionD": "Heap",
+        "answer": "Dynamic"
+    },
+
+    {
+        "question": "In Linked List implementation, a node carries information regarding ___________",
+        "optionA": "Data",
+        "optionB": "Link",
+        "optionC": "Data and Link",
+        "optionD": "Node",
+        "answer": "Link"
+    },
+
+    {
+        "question": "Linked list data structure offers considerable saving in _____________",
+        "optionA": "Computational Time",
+        "optionB": "Space Utilization",
+        "optionC": "Space Utilization and Computational Time",
+        "optionD": "Speed Utilization",
+        "answer": "Space Utilization and Computational Time"
+    },
+
+    {
+        "question": "Which of the following points is/are not true about Linked List data structure when it is compared with an array?",
+        "optionA": "Arrays have better cache locality that can make them better in terms of performance",
+        "optionB": "It is easy to insert and delete elements in Linked List",
+        "optionC": "Random access is not allowed in a typical implementation of Linked Lists",
+        "optionD": "Access of elements in linked list takes less time than compared to arrays",
+        "answer": "Access of elements in linked list takes less time than compared to arrays"
+    },
+
+    {
+        "question": "Which of the following sorting algorithms can be used to sort a random linked list with minimum time complexity?",
+        "optionA": "Insertion Sort",
+        "optionB": "Quick Sort",
+        "optionC": "Heap Sort",
+        "optionD": "Merge Sort",
+        "answer": "Merge Sort"
+    },
+
+    {
+        "question": "What does the following function do for a given Linked List with first node as head ?",
+
+        "optionA": "Prints all nodes of linked lists",
+        "optionB": "Prints all nodes of linked list in reverse order",
+        "optionC": "Prints alternate nodes of Linked List",
+        "optionD": "Prints alternate nodes in reverse order",
+        "answer": "Prints all nodes of linked list in reverse order"
+    }
+]

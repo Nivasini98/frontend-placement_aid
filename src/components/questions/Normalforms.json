@@ -1,0 +1,136 @@
+[
+    {
+        "question": "If January 1, 1996, was Monday, what day of the week was January 1, 1997?",
+        "optionA": "Thursday",
+        "optionB": "Wednesday",
+        "optionC": "Friday",
+        "optionD": "Sunday",
+        "answer": "Wednesday"
+    },
+
+    {
+        "question": "What was the day of the week on 28th May, 2006?",
+        "optionA": "Thursday",
+        "optionB": "Friday",
+        "optionC": "Saturday",
+        "optionD": "Sunday",
+        "answer": "Sunday"
+    },
+
+    {
+        "question": "Today is Monday. After 61 days, it will be:",
+        "optionA": "Wednesday",
+        "optionB": "Saturday",
+        "optionC": "Tuesday",
+        "optionD": "Thursday",
+        "answer": "Saturday"
+    },
+
+    {
+        "question": "The last day of a century cannot be",
+        "optionA": "Monday",
+        "optionB": "Wednesday",
+        "optionC": "Tuesday",
+        "optionD": "Friday",
+        "answer": "Tuesday"
+    },
+
+    {
+        "question": "On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?",
+        "optionA": "Tuesday",
+        "optionB": "Monday",
+        "optionC": "Sunday",
+        "optionD": "Wednesday",
+        "answer": "Sunday"
+    },
+
+    {
+        "question": "On what dates of April, 2001 did Wednesday fall?",
+        "optionA": "1st, 8th, 15th, 22nd, 29th",
+        "optionB": "2nd, 9th, 16th, 23rd, 30th",
+        "optionC": "3rd, 10th, 17th, 24th",
+        "optionD": "4th, 11th, 18th, 25th",
+        "answer": "4th, 11th, 18th, 25th"
+    },
+
+    {
+        "question": "The calendar for the year 2007 will be the same for the year",
+        "optionA": "2014",
+        "optionB": "2016",
+        "optionC": "2017",
+        "optionD": "2018",
+        "answer": "2018"
+    },
+
+    {
+        "question": "Which of the following is not a leap year",
+        "optionA": "700",
+        "optionB": "800",
+        "optionC": "1200",
+        "optionD": "2000",
+        "answer": "700"
+    },
+
+    {
+        "question": "On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?",
+        "optionA": "Sunday",
+        "optionB": "Thursday",
+        "optionC": "Tuesday",
+        "optionD": "Friday",
+        "answer": "Friday"
+    },
+
+    {
+        "question": "January 1, 2007 was Monday. What day of the week lies on Jan. 1, 2008?",
+        "optionA": "Tuesday",
+        "optionB": "Monday",
+        "optionC": "Wednesday",
+        "optionD": "Sunday",
+        "answer": "Tuesday"
+    },
+
+    {
+        "question": "January 1, 2008 is Tuesday. What day of the week lies on Jan 1, 2009?",
+        "optionA": "Tuesday",
+        "optionB": "Wednesday",
+        "optionC": "Thursday",
+        "optionD": "Friday",
+        "answer": "Thursday"
+    },
+
+    {
+        "question": "On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?",
+        "optionA": "Tuesday",
+        "optionB": "Monday",
+        "optionC": "Sunday",
+        "optionD": "Wednesday",
+        "answer": "Sunday"
+    },
+
+    {
+        "question": "How many days are there in x weeks x days?",
+        "optionA": "7x",
+        "optionB": "8x",
+        "optionC": "6x",
+        "optionD": "9x",
+        "answer": "8x"
+    },
+
+    {
+        "question": "What was the day of the week on 17th June, 1998?",
+        "optionA": "Tuesday",
+        "optionB": "Wednesday",
+        "optionC": "Thursday",
+        "optionD": "Friday",
+        "answer": "Wednesday"
+    },
+
+    {
+        "question": "What will be the day of the week 15th August, 2010?",
+        "optionA": "Sunday",
+        "optionB": "Monday",
+        "optionC": "Tuesday",
+        "optionD": "Friday",
+        "answer": "Sunday"
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "question": "Which of the following true about FILE *fp",
+        "optionA": "FILE is a keyword in C for representing files and fp is a variable of FILE type",
+        "optionB": "FILE is a stream",
+        "optionC": "FILE is a buffered stream",
+        "optionD": "FILE is a structure and fp is a pointer to the structure of FILE type",
+        "answer": "FILE is a structure and fp is a pointer to the structure of FILE type"
+    },
+
+    {
+        "question": "Which of the following mode argument is used to truncate?",
+        "optionA": "a",
+        "optionB": "w",
+        "optionC": "f",
+        "optionD": "t",
+        "answer": "w"
+    },
+
+    {
+        "question": "The first and second arguments of fopen() are",
+        "optionA": "A character string containing the name of the file & the second argument is the mode",
+        "optionB": "A character string containing the name of the user & the second argument is the mode",
+        "optionC": "A character string containing file pointer & the second argument is the mode",
+        "optionD": "None of the mentioned",
+        "answer": "A character string containing the name of the file & the second argument is the mode"
+    },
+
+    {
+        "question": "FILE is of type ______",
+        "optionA": "int type",
+        "optionB": "char * type",
+        "optionC": "struct type",
+        "optionD": "None of the mentioned",
+        "answer": "struct type"
+    },
+
+    {
+        "question": "fseek() should be preferred over rewind() mainly because",
+        "optionA": "rewind() doesn't work for empty files",
+        "optionB": "rewind() may fail for large files",
+        "optionC": "In rewind, there is no way to check if the operations completed successfully",
+        "optionD": "All of the above",
+        "answer": "In rewind, there is no way to check if the operations completed successfully"
+    },
+
+    {
+        "question": "FILE reserved word is?",
+        "optionA": "A structure tag declared in stdio.h",
+        "optionB": "One of the basic datatypes in c",
+        "optionC": "Pointer to the structure defined in stdio.h",
+        "optionD": "It is a type name defined in stdio.h",
+        "answer": "It is a type name defined in stdio.h"
+    },
+
+    {
+        "question": "For binary files, a ___ must be appended to the mode string.",
+        "optionA": "b",
+        "optionB": "B",
+        "optionC": "binary",
+        "optionD": "01",
+        "answer": "b"
+    },
+
+    {
+        "question": "Which of the following statements about stdout and stderr are true?",
+        "optionA": "Same",
+        "optionB": "Both connected to screen always.",
+        "optionC": "Both connected to screen by default.",
+        "optionD": "stdout is line buffered but stderr is unbuffered.",
+        "answer": "Both connected to screen by default."
+    },
+
+    {
+        "question": "Which type of files cannot be opened using fopen()?",
+        "optionA": ".txt",
+        "optionB": ".bin",
+        "optionC": "c",
+        "optionD": "None of the above",
+        "answer": "None of the above"
+    },
+
+    {
+        "question":"When a C program is started, O.S environment is responsible for opening file and providing pointer for that file?",
+        "optionA": "Standard input",
+        "optionB": "Standard output",
+        "optionC": "Standard error",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+
+    {
+        "question": "What is the need for a File when you can store anything in memory.?",
+        "optionA": "Memory (RAM) is limited in any computer.",
+        "optionB": "A file is stored on Hard Disk which can store Gigabytes of data",
+        "optionC": "File stored on Hard Disk is safe even if PC is switched off. But Memory or RAM contents are cleared when PC is off.",
+        "optionD": "All the above",
+        "answer": "All the above"
+    },
+
+    {
+        "question":"What is the keyword used to declare a C file pointer.?",
+        "optionA": "file",
+        "optionB": "FILE",
+        "optionC": "FILEFP",
+        "optionD": "filefp",
+        "answer": "FILE"
+    },
+
+    {
+        "question": "What is a C FILE data type.?",
+        "optionA": "FILE is like a Structure only",
+        "optionB": "FILE is like a Union only",
+        "optionC": "FILE is like a user define int data type",
+        "optionD": "None of the above",
+        "answer": "FILE is like a Structure only"
+    },
+
+    {
+        "question": "Where is a file temporarily stored before read or write operation in C language.?",
+        "optionA": "Notepad",
+        "optionB": "RAM",
+        "optionC": "Hard disk",
+        "optionD": "Buffer",
+        "answer": "Buffer"
+    },
+
+    {
+        "question": "What is the need for closing a file in C language.?",
+        "optionA": "fclose(fp) closes a file to release the memory used in opening a file.",
+        "optionB": "Closing a file clears Buffer contents from RAM or memory.",
+        "optionC": "Unclosed files occupy memory and PC hangs when on low memory.",
+        "optionD": "All the above",
+        "answer": "All the above"
+    }
+]

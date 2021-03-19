@@ -1,0 +1,56 @@
+/* .instructions{
+    /* border:1px solid darken(#f8f8f8,10%);
+    border-radius: 5px;
+    margin-top:3rem;
+    margin-bottom:3rem;
+    padding:3rem 1.5rem;
+    display:inline-block; 
+    overflow-y:scroll;
+} 
+h1{
+    color:#333f;
+    font-size:0.5rem;
+    text-align:center;
+}
+.browser-default{
+    padding-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+img{
+    width:80%;
+    height:50%;
+}
+ */
+ .instructions{
+    //margin: auto auto auto auto;
+    margin: 10px 150px 10px 150px;
+      padding: 0.5rem 0.5rem;
+    color:black;
+
+ }
+a.game{
+background-color:  rgb(8, 140, 216);
+color:#fff;
+cursor:pointer;
+padding:0.5rem;
+border-radius: 30px;
+display:block;
+text-align: center;
+transition: 0.3s linear all;
+margin-bottom:4rem ;
+
+}
+.auth-container
+{
+    width: 100%;
+    
+}
+
+@media(max-width:768px)
+{
+    .instructions img {
+        width:100% !important;
+        height:150% !important;
+    }
+}

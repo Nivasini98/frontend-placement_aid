@@ -1,0 +1,136 @@
+[
+    {
+        "question": "An ________ is a set of entities of the same type that share the same properties, or attributes.",
+        "optionA": "Entity set",
+        "optionB": "Attribute set",
+        "optionC": "Relation set",
+        "optionD": "Entity model",
+        "answer": "Entity set"
+    },
+
+    {
+        "question": "Entity is a _________",
+        "optionA": "Object of relation",
+        "optionB": "Present working model",
+        "optionC": "Thing in real world",
+        "optionD": "Model of relation",
+        "answer": "Thing in real world"
+    },
+
+    {
+        "question": "The descriptive property possessed by each entity set is _________",
+        "optionA": "Entity",
+        "optionB": "Attribute",
+        "optionC": "Relation",
+        "optionD": "Model",
+        "answer": "Attribute"
+    },
+
+    {
+        "question": "The function that an entity plays in a relationship is called that entity’s _____________",
+        "optionA": "Participation",
+        "optionB": "Position",
+        "optionC": "Role",
+        "optionD": "Instance",
+        "answer": "Role"
+    },
+
+    {
+        "question": "The attribute name could be structured as an attribute consisting of first name, middle initial, and last name. This type of attribute is called",
+        "optionA": "Simple attribute",
+        "optionB": "Composite attribute",
+        "optionC": "Multivalued attribute",
+        "optionD": "Derived attribute",
+        "answer": "Composite attribute"
+    },
+
+    {
+        "question": "The attribute AGE is calculated from DATE_OF_BIRTH. The attribute AGE is",
+        "optionA": "Single valued",
+        "optionB": "Multi valued",
+        "optionC": "Composite",
+        "optionD": "Derived",
+        "answer": "Derived"
+    },
+
+    {
+        "question": "Not applicable condition can be represented in relation entry as",
+        "optionA": "NA",
+        "optionB": "0",
+        "optionC": "NULL",
+        "optionD": "Blank Space",
+        "answer": "NULL"
+    },
+
+    {
+        "question": "Which of the following can be a multivalued attribute?",
+        "optionA": "Phone_number",
+        "optionB": "Name",
+        "optionC": "Date_of_birth",
+        "optionD": "All of the mentioned",
+        "answer": "Phone_number"
+    },
+
+    {
+        "question": "Which of the following is a single valued attribute",
+        "optionA": "Register_number",
+        "optionB": "Address",
+        "optionC": "SUBJECT_TAKEN",
+        "optionD": "Reference",
+        "answer": "Register_number"
+    },
+
+    {
+        "question": "In a relation between the entities the type and condition of the relation should be specified. That is called as______attribute",
+        "optionA": "Desciptive",
+        "optionB": "Derived",
+        "optionC": "Recursive",
+        "optionD": "Relative",
+        "answer": "Desciptive"
+    },
+
+    {
+        "question": "A many to many relationship between two entities usually results in how many tables?",
+        "optionA": "One",
+        "optionB": "Two",
+        "optionC": "Three",
+        "optionD": "Four",
+        "answer": "Three"
+    },
+
+    {
+        "question": "An ________ is a set of entities of the same type that share the same properties, or attributes.",
+        "optionA": "Entity set",
+        "optionB": "Attribute set",
+        "optionC": "Relation set",
+        "optionD": "Entity model",
+        "answer": "Entity set"
+    },
+
+    {
+        "question": "Entity is a _________",
+        "optionA": "Object of relation",
+        "optionB": "Present working model",
+        "optionC": "Thing in real world",
+        "optionD": "Model of relation",
+        "answer": "Thing in real world"
+    },
+
+    {
+        "question": "Every weak entity set can be converted into a strong entity set by:",
+        "optionA": "using generalization",
+        "optionB": "adding appropriate attributes",
+        "optionC": "using aggregation",
+        "optionD": "none of the above",
+        "answer": "adding appropriate attributes"
+    },
+
+    {
+        "question": "In ER model the details of the entities are hidden from the user. This process is called :",
+        "optionA": "generalization",
+        "optionB": "specialization",
+        "optionC": "abstraction",
+        "optionD": "none of these above",
+        "answer": "abstraction"
+    }
+]
